@@ -3,7 +3,7 @@
 This repository contains the project files for a comprehensive Power BI dashboard designed to analyze daily performance metrics of marketing campaigns. The dashboard provides actionable insights into the effectiveness of each campaign and identifies opportunities for optimization.
 
 ## Live Dashboard Link
-[Marketing Campaign Dashboard](link_to_live_dashboard)
+[Marketing Campaign Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjU3NGRkM2ItNjM3My00OGZlLThiMTAtNjliODYwYmMwMzE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Project Overview
 The dataset includes metrics across various dimensions such as cities, channels, devices, and individual ads. Key metrics analyzed in the dashboard include:
@@ -69,4 +69,4 @@ This Power BI dashboard provides intuitive access to key marketing metrics, faci
 
 
 ## Getting Started
-To view the dashboard, follow the [Live Dashboard Link](link_to_live_dashboard) or download the `Marketing_Campaign_Dashboard.pbix` file and open it using Power BI.
+To view the dashboard, follow the [Live Dashboard Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjU3NGRkM2ItNjM3My00OGZlLThiMTAtNjliODYwYmMwMzE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) or download the `Marketing_Campaign_Dashboard.pbix` file and open it using Power BI.
