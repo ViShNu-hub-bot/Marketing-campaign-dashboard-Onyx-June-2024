@@ -18,24 +18,30 @@ The dataset includes metrics across various dimensions such as cities, channels,
 
 ## Dashboard Pages
 1. **Overview Page**:
+    ![Dashboard Preview](Screenshot%20(225).png)
    - KPIs
    - Visuals
    
 2. **Campaign Analysis**:
+   ![Dashboard Preview](Screenshot%20(226).png)
    - Visuals
    - Table
    
 3. **Geographical Analysis**:
+   ![Dashboard Preview](Screenshot%20(227).png)
    - Maps
    - Charts
    
 4. **Channel Analysis**:
+   ![Dashboard Preview](Screenshot%20(228).png)
    - Visuals
    
 5. **Device Analysis**:
+    ![Dashboard Preview](Screenshot%20(229).png)
    - Visuals
    
 6. **Ad Type Analysis**:
+    ![Dashboard Preview](Screenshot%20(230).png)
    - Visuals
    
 7. **Engagement Metrics**:
@@ -64,8 +70,3 @@ This Power BI dashboard provides intuitive access to key marketing metrics, faci
 
 ## Getting Started
 To view the dashboard, follow the [Live Dashboard Link](link_to_live_dashboard) or download the `Marketing_Campaign_Dashboard.pbix` file and open it using Power BI.
-
-## Screenshots
-[![Overview Page](images/overview_page.png)](link_to_live_dashboard)
-[![Geographical Analysis](images/geographical_analysis.png)](link_to_live_dashboard)
-[![Time Series Analysis](images/time_series_analysis.png)](link_to_live_dashboard)
