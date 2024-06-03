@@ -66,7 +66,7 @@ This Power BI dashboard provides intuitive access to key marketing metrics, faci
 - `Marketing_Campaign_Dashboard.pbix`: Power BI dashboard file.
 - `data/`: Folder containing dataset files.
 - `images/`: Folder containing images used in the README.
-- `LICENSE`: License information.
+
 
 ## Getting Started
 To view the dashboard, follow the [Live Dashboard Link](link_to_live_dashboard) or download the `Marketing_Campaign_Dashboard.pbix` file and open it using Power BI.
